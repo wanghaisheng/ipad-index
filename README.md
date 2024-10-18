@@ -1,6 +1,6 @@
 <img src="https://github.com/KyleBing/ipad/raw/master/img/ipad_favicon256w.png" width="100">
 
-# iPad 信息
+# iPad 信息 index
 
 > 数据来源： wikipedia
 
